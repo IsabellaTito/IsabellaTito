@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Isabella Tito, and I am a Computer Engineering student at the Instituto Federal de Campina Grande. This is where I share the projects and activities I have been working on throughout my studies. I hope you enjoy exploring my work!</p>
+<p align="left">My name is Isabella Tito, and I am a Computer Engineering student at the Instituto Federal de Campina Grande. This is where I share the projects and activities I have been working on throughout my studies. Currently I'm learning Object-Oriented Programming, DataBase, Front-end and Kotlin. I hope you enjoy exploring my work!</p>
 
 ###
 
@@ -23,6 +23,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -36,17 +40,3 @@
 </div>
 
 ###
-<!--
-**IsabellaTito/IsabellaTito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
