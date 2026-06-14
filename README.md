@@ -6,7 +6,7 @@
   
 My name is Isabella Tito.
   
-I hold a Bachelor's degree in Mathematics and I'm currently pursuing a degree in Computer Engineering at the Instituto Federal de Campina Grande. This is where I share the projects and activities I have been working on throughout my studies.
+I hold a degree in Mathematics and I'm currently pursuing a degree in Computer Engineering at the Instituto Federal de Campina Grande. This is where I share the projects and activities I have been working on throughout my studies.
 
 Feel free to explore my repositories and follow my progress as I continue to grow as a developer and engineer.</p> 
 
