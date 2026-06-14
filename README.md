@@ -1,14 +1,16 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
-
 <h1 align="left">Hey 👋 What's up?</h1> 
 
-<p align="left"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+
+<div align="justify">
   
 My name is Isabella Tito.
   
 I hold a Bachelor's degree in Mathematics and I'm currently pursuing a degree in Computer Engineering at the Instituto Federal de Campina Grande. This is where I share the projects and activities I have been working on throughout my studies.
 
 Feel free to explore my repositories and follow my progress as I continue to grow as a developer and engineer.</p> 
+
+</div>
 
 <h2 align="left"> 💻 Languages</h2>
 
