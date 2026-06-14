@@ -1,20 +1,16 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
 
 <h1 align="left">Hey 👋 What's up?</h1> 
 
-###
-
-<!--<p align="left">My name is Isabella Tito, and I am a Computer Engineering student at the Instituto Federal de Campina Grande. This is where I share the projects and activities I have been working on throughout my studies. I hope you enjoy exploring my work!  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </p>-->
-
-<p align="left"> My name is Isabella Tito. I hold a Bachelor's degree in Mathematics and I'm currently pursuing a degree in Computer Engineering at the Instituto Federal de Campina Grande. This is where I share the projects and activities I have been working on throughout my studies.
+<p align="left"> 
+  
+My name is Isabella Tito.
+  
+I hold a Bachelor's degree in Mathematics and I'm currently pursuing a degree in Computer Engineering at the Instituto Federal de Campina Grande. This is where I share the projects and activities I have been working on throughout my studies.
 
 Feel free to explore my repositories and follow my progress as I continue to grow as a developer and engineer.</p> 
 
-###
-
-<h2 align="left"> Languages</h2>
-
-###
+<h2 align="left"> 💻 Languages</h2>
 
 <!-- Tecnologias e Ferramentas -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -24,11 +20,7 @@ Feel free to explore my repositories and follow my progress as I continue to gro
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 
-###
-
-<h2 align="left"> Technologies</h2>
-
-###
+<h2 align="left"> 🛠️ Technologies</h2>
 
 [![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
